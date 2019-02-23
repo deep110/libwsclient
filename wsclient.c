@@ -11,8 +11,6 @@
 #include <sys/un.h>
 #include <signal.h>
 
-
-
 #include <pthread.h>
 
 #include "wsclient.h"
